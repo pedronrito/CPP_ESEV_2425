@@ -1,0 +1,11 @@
+size(700,300);
+int x=50, y=50;
+int x1=100, y1=100;
+int x2=400, y2=100;
+int x3=400, y3=250;
+int x4=400, y4=200;
+ellipse(x,y,50,50);
+ellipse(x1,y1,50,50);
+ellipse(x2,y2,50,50);
+ellipse(x3,y3,50,50);
+ellipse(x4,y4,50,50);
